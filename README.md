@@ -2,6 +2,10 @@
 
 ---
 
+![Hidden Love Letters feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/images/hidden-love-letters/feature/20260527113958193637-Hidden-Love-Letters.webp)
+
+---
+
 **An original song written, composed, created, and owned by [Abu Sayed](https://abusayed.com.bd/)**
 
 ---
@@ -13,9 +17,11 @@
 | **Title** | Hidden Love Letters |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 25, 2026 |
+| **Created On** | May 27, 2026 |
+| **Released On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hidden-love-letters/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Hidden Love Letters](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hidden-love-letters/) |
+| **Get License** | [Request Licensing for Hidden Love Letters](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=NixPkPN30_Q?https://imabusayed.github.io/hidden-love-letters/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -45,6 +51,7 @@
 ## 🔗 Song Links
 
 - [Telegram](https://t.me/AbuSayedMusic/2117)
+- [YouTube](https://www.youtube.com/watch?v=NixPkPN30_Q)
 
 ---
 
@@ -115,9 +122,9 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `ce3614d16aa5c34109f53e0d7a994360112d8130ef3c73b498fc4eff060c78d7` |
-| **Timestamp** | May 26, 2026 |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `ec047d7a382626bee5296a37d7d7c3d6bbe757ec14160adb2fee23a90d9655e6` |
+| **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

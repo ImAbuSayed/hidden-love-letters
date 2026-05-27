@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Hidden L
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-05-26T05:54:49.112273 | `v1` | `ce3614d16aa5c34109f53e0d7a994360112d8130ef3c73b498fc4eff060c78d7` | `d2599fb2fcdef90d2b8e7d2fbb4bfa4bd564cdc3f838d37fb85b68c5643c6088` | `2026-05-26_hidden-love-letters-v1.txt` |
+| 2026-05-27T17:41:34.771992 | `v2` | `ec047d7a382626bee5296a37d7d7c3d6bbe757ec14160adb2fee23a90d9655e6` | `f37da22d2f84bfd16062872d5c8edf5c151f79721453849477b6778c8983cbcd` | `2026-05-27_hidden-love-letters-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
