@@ -21,7 +21,7 @@
 | **Released On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hidden-love-letters/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Hidden Love Letters](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=NixPkPN30_Q?https://imabusayed.github.io/hidden-love-letters/) |
+| **Get License** | [Get a Licensing Quote for Hidden Love Letters](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=NixPkPN30_Q?https://imabusayed.github.io/hidden-love-letters/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -50,7 +50,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/2117)
+- [Telegram](https://t.me/AbuSayedMusic/2255)
 - [YouTube](https://www.youtube.com/watch?v=NixPkPN30_Q)
 
 ---
